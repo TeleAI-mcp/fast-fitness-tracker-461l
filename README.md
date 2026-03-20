@@ -1,2 +1,3 @@
-# fast-fitness-tracker-461l
-A fitness and workout tracker for modern development workflows
+# Fast Fitness Tracker 461L
+
+A fitness and workout tracker for modern development workflows.
